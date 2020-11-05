@@ -1,0 +1,73 @@
+.full {
+    padding: 20px;
+    color: whitesmoke;
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-bottom-width: 5px;
+    border-bottom-color: #cfcfcf;
+    border-bottom-style: solid;
+    background-color: #7FC153;
+}
+
+header {
+    padding: 0em 0 3.5em 0em;
+}
+
+#headspan1 {
+    font-weight: bolder;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: inherit;
+    background-color: white;
+    color: #6EB141;
+    padding: 0ch 0.3ch 0ch 0.3ch;
+}
+
+button {
+    padding: 60px;
+    background-color: #7FC153;
+    color: white;
+    font-size: x-large;
+    text-align: center;
+    cursor: pointer;
+    position: static;
+    border: 0.5px solid #cfcfcf;
+    width: 50px;
+    height: 20px;
+}
+
+.operate {
+    background-color: #62a734;
+}
+
+#eq {
+    background-color:white;
+    border-color: #6EB141;
+    color: #6EB141;
+}
+
+.rightCalc {
+    border-radius: 1px;
+    border-style: ridge;
+    float: right;
+    width: 50%;
+}
+
+.result {
+    float: right;
+    width: 50%;
+    margin-top: 1%;
+    position: static;
+}
+
+#box {
+    font-size: 50px;
+    color: grey;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#res {
+    font-size: 120px;
+    color: #abe286;
+    font-family: cursive;
+    text-align: center;
+}
